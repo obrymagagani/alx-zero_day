@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "School"
+<<<<<<<HEAD
+echo "The School is cool"
+=======
+echo "school"
+>>>>>>>>origin/update_script
